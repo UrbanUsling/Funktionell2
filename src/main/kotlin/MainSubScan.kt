@@ -1,5 +1,5 @@
 import java.io.File
-//uppgift 1 2021. Lösningshjälp https://todd.ginsberg.com/post/advent-of-code/2021/day2/
+//uppgift 1 2021
 var drops  = -1
 var drops2 = -1
 var tripleJump = ArrayList<Int>()

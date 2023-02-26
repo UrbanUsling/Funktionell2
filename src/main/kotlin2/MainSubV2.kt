@@ -1,6 +1,6 @@
 import java.io.File
 
-//uppgift 2 2021. Lösningshjälp
+//uppgift 2 2021. Lösningshjälp https://todd.ginsberg.com/post/advent-of-code/2021/day2/
     var aim2 = 0
     var depth2 =0
     var forward2 = 0
